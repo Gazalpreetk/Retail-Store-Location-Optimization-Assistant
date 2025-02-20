@@ -48,6 +48,9 @@ Store Selection Panel: Allows users to select city, neighborhood, area, and pric
 
 Ranking Table: Displays top-ranked locations based on selected filters.
 
+![image](https://github.com/user-attachments/assets/2f84ea82-0e8f-4e4e-bf3c-c40aadba53ab)
+
+
 ### Store Analysis Dashboard:
 
 Overall Score: A calculated metric summarizing key factors.
@@ -59,6 +62,10 @@ Demographic Insights: Household income distribution, age groups, and employment 
 Competitor Analysis: Ratings of competing businesses in the selected area.
 
 Interactive Map: Visual representation of store locations with geographical context.
+
+![image](https://github.com/user-attachments/assets/b77299cc-3106-4798-97b0-00ce034c4fcc)
+
+![image](https://github.com/user-attachments/assets/9ade10fb-4733-42a6-9244-b44e7f406ace)
 
 ## Technologies Used
 
